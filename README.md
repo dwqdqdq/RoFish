@@ -1,2 +1,17 @@
-# RoFish
-Roblox Phishing Website
+<p align="center">
+<img width="250" height="250" src="https://i.imgur.com/6mUynfN.png">
+</p>
+
+### <p align="center"></p>
+## <b>Overview</b>
+RoFish is a simple, phishing site that is easy to use and allows phishing in a few steps. The site allows the user to steal login information and other ip information from the person who login to the website.
+## <b>Wiki</b>
+- [Setting Up RoFish](https://github.com/TheSisco/RoFish/wiki/How-To-Setup "RoFish - Wiki")
+-  [Tunnelling Credits](https://github.com/TheSisco/RoFish/wiki/Tunnelling-Credits "RoFish - Wiki")
+## <b>Disclaimer</b>
+Use of the RoFish website is the responsibility of the user. The developers declare that they are not responsible for any abuse or damage caused by the system caused by the user. 
+## <b>Website Showcase</b>
+The site is user-friendly and available in all sizes, including phone and other devices.
+<p align="center">
+<img src="https://i.imgur.com/9qzQygY.png">
+</p>
