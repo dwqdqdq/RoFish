@@ -6,7 +6,7 @@
 ## <b>Overview</b>
 RoFish is a simple, phishing site that is easy to use and allows phishing in a few steps. The site allows the user to steal login information and other ip information from the person who login to the website.
 ## <b>Wiki</b>
-- [Setting Up RoFish](https://github.com/TheSisco/RoFish/wiki/How-To-Setup "RoFish - Wiki")
+- [Setting Up RoFish](https://github.com/TheSisco/RoFish/wiki/Setting-Up-RoFish "RoFish - Wiki")
 -  [Tunnelling Credits](https://github.com/TheSisco/RoFish/wiki/Tunnelling-Credits "RoFish - Wiki")
 ## <b>Disclaimer</b>
 Use of the RoFish website is the responsibility of the user. The developers declare that they are not responsible for any abuse or damage caused by the system caused by the user. 
