@@ -1,5 +1,5 @@
 <p align="center">
-<img width="250" height="250" src="https://i.imgur.com/6mUynfN.png">
+<img width="250" height="250" src="https://i.imgur.com/578YmId.png">
 </p>
 <p align="center">
 <b>Author : dtbsisco</b>
