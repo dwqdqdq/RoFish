@@ -19,5 +19,5 @@ Developers assume no liability and are not responsible for any misuse or damage 
 ##  🌐 - <b>Website Showcase</b>
 Site is user-friendly and accessible in all sizes, including on phones and other devices.
 <p align="center">
-<img src="https://i.imgur.com/9qzQygY.png">
+<img src="https://i.imgur.com/tJsIaNk.png">
 </p>
